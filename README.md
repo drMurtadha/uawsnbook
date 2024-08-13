@@ -35,3 +35,38 @@
    - Summary of Key Findings
    - Final Thoughts on Greedy Routing in UWASNs
 
+Sure! Here's a suggestion for a catchy book title, table of contents, and the content written in proper Malay (Bahasa Malaysia):
+
+## **Judul Buku:**
+**Panduan Komprehensif: Penghalaan Tamak dalam Rangkaian Sensor Akustik Bawah Air**
+
+## **Isi Kandungan:**
+
+1. **Pengenalan kepada Rangkaian Sensor Akustik Bawah Air**
+   - Latar Belakang dan Kepentingan
+   - Cabaran dan Peluang
+
+2. **Komunikasi Akustik dalam Persekitaran Bawah Air**
+   - Ciri-ciri Gelombang Akustik
+   - Faktor-faktor yang Mempengaruhi Saluran Akustik
+
+3. **Penghalaan dalam Rangkaian Sensor Tanpa Wayar Terestrial vs. Bawah Air**
+   - Perbezaan Utama
+   - Masalah Penghalaan dalam Persekitaran Bawah Air
+
+4. **Teknik Penghalaan Tamak dalam Rangkaian Sensor Akustik Bawah Air**
+   - Penghalaan Berdasarkan Lokasi
+   - Penghalaan Tanpa Lokasi
+
+5. **Protokol Penghalaan Berdasarkan Lokasi**
+   - Protokol VBF dan HH-VBF
+   - Protokol SEANAR dan FBR
+
+6. **Protokol Penghalaan Tanpa Lokasi**
+   - Penghalaan Berasaskan Beacon
+   - Penghalaan Berasaskan Tekanan
+
+7. **Cabaran dan Masa Depan Penghalaan Tamak dalam Rangkaian Sensor Akustik Bawah Air**
+   - Isu-isu Semasa
+   - Cadangan untuk Penyelidikan Masa Depan
+
