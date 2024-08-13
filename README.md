@@ -42,7 +42,7 @@ Sure! Here's a suggestion for a catchy title and a table of contents for the boo
 - **7.3 Summary and Final Thoughts**
 
 **Judul Buku:**
-**"Panduan Komprehensif: Penghalaan Tamak dalam Rangkaian Sensor Akustik Bawah Air"**
+**"Panduan Komprehensif: Penghalaan Rakus dalam Rangkaian Sensor Akustik Bawah Air"**
 
 [Prakata](prakata.md)
 
