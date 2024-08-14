@@ -44,9 +44,11 @@ Sure! Here's a suggestion for a catchy title and a table of contents for the boo
 **Judul Buku:**
 **"Penghalaan Rakus dalam Rangkaian Sensor Akustik Bawah Air: Suatu Tinjauan"**
 
-[Prakata](prakata.md)
+
 
 **Isi Kandungan:**
+
+[Prakata](prakata.md)
 
 1. **Pengenalan kepada Rangkaian Sensor Akustik Bawah Air**
    - Pengenalan dan Latar Belakang
