@@ -1,9 +1,5 @@
 # Prakata
-
-
 ---
-
-**Prakata**
 
 Dalam dekad yang lalu, kemajuan pesat dalam teknologi rangkaian penderia wayarles (WSN) telah menerokai penyelidikan baru untuk komunikasi bawah air. Walau bagaimanapun, cabaran unik yang  dalam persekitaran bawah air, seperti lengahan rambatan yang tinggi, kehilangan laluan yang besar, lebar jalur yang rendah dan penggunaan tenaga yang tinggi, memerlukan pendekatan baru dalam protokol penghalaan. Buku ini, "Penghalaan Rakus dalam Rangkaian Sensor Akustik Bawah Air: Satu Tinjauan" bertujuan untuk memberi pandangan mendalam tentang protokol penghalaan rakus yang telah dibangunkan untuk rangkaian penderia akustik bawah air (UWASN).
 
