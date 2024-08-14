@@ -1,7 +1,6 @@
 **Isi Kandungan:**
 
 [Prakata](prakata.md)
-Sure! Here are the suggested chapters and sub-chapters for the research book based on the article "Greedy Routing in Underwater Acoustic Sensor Networks: A Survey":
 
 ### Bab 1: Pengenalan
 - 1.1 Latar Belakang
