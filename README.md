@@ -1,11 +1,11 @@
 Sure! Here's a suggestion for a catchy title and a table of contents for the book:
 
-## Title: 
-**"Navigating the Depths: Greedy Routing in Underwater Acoustic Sensor Networks"**
+## Title: **"Navigating the Depths: Greedy Routing in Underwater Acoustic Sensor Networks"**
+
+
+## Contents:
 
 [Preface](preface.md)
-## Table of Contents:
-
 ### Chapter 1: **Introduction to UWASNs**
 - **1.1 The Rise of Wireless Sensor Networks**
 - **1.2 Challenges in Underwater Environments**
