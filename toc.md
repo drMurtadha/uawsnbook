@@ -1,7 +1,7 @@
 ## Contents:
 
 [Preface](preface.md)
-Sure! Here are five suggested chapters for a research book based on the article "Greedy Routing in Underwater Acoustic Sensor Networks: A Survey":
+
 
 ### Chapter 1: Introduction to Underwater Acoustic Sensor Networks (UWASNs)
 - Overview of UWASNs
