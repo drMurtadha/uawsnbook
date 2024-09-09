@@ -1,4 +1,4 @@
-**Cadangan Bab untuk Buku "Protokol Rangkaian Sensor Akustik Bawah Air"**
+**Cadangan Bab untuk Buku "Protokol Rangkaian Penderia Akustik Bawah Permukaan Air"**
 
 1. **Pengenalan kepada Rangkaian Sensor Akustik Bawah Air (UASN)**
    - Gambaran keseluruhan UASN, kepentingan komunikasi bawah air, dan cabaran-cabaran yang dihadapi.
